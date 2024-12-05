@@ -50,10 +50,10 @@ for i in range(n):
 
 
 ```
-
+`
 ## Output:
 ![gaussian elimination]
-(![image](https://github.com/user-attachments/assets/8f3d83d7-2b23-4c1c-a161-b5c7efb6b432)
+(![image](https://github.com/user-attachments/assets/8f3d83d7-2b23-4c1c-a161-b5c7efb6b432))
 
 
 
